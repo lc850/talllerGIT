@@ -1,0 +1,41 @@
+commit 0c9a33c94d240b42391cbbdda2f9332398ee2351
+Author: Luis Santillan <santillan.itc@gmail.com>
+Date:   Thu Oct 29 17:39:46 2015 -0700
+
+    tabla de talleres
+
+commit 2a7181144466e3b201d6c4700531b65a4220a606
+Author: Luis Santillan <santillan.itc@gmail.com>
+Date:   Thu Oct 29 17:33:39 2015 -0700
+
+    tabla info conferencias
+
+commit 6db63ce605c6de828f6f9e8ecf22c9bda07676a2
+Author: Luis Santillan <santillan.itc@gmail.com>
+Date:   Thu Oct 29 17:22:01 2015 -0700
+
+    Footer agregado
+
+commit be8d1e66283edd89d4986758400df1a231e2feb6
+Author: Luis Santillan <santillan.itc@gmail.com>
+Date:   Thu Oct 29 17:15:21 2015 -0700
+
+    Cambio de color de fondo
+
+commit d54add8ff7ce1d87e387d0299322686f3949811b
+Author: Luis Santillan <santillan.itc@gmail.com>
+Date:   Thu Oct 29 17:10:16 2015 -0700
+
+    info sobre el evento
+
+commit 09b1524367c55cac59d5ab0f5db2f713589f446a
+Author: Luis Santillan <santillan.itc@gmail.com>
+Date:   Thu Oct 29 17:05:54 2015 -0700
+
+    Tituto e imagen SISEI 9
+
+commit 7afe456a8e330062cffffecbf65eb3d76f6fc409
+Author: Luis Santillan <santillan.itc@gmail.com>
+Date:   Thu Oct 29 16:52:11 2015 -0700
+
+    proyecto blanco
